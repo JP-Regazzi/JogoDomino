@@ -1,0 +1,1 @@
+criada pelo console com o comando "notepad test.txt"
