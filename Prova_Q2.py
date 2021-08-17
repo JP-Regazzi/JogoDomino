@@ -1,5 +1,5 @@
-class Dominos:
-
+class Dominos: # Exemplo de entrada: [[1,2],[5,6],[3,1],[6,4]] -> cada lista menor é uma peça!
+ça!
     def __init__(self, lista):
         self.lista = lista
         self.mesa = []
@@ -44,7 +44,6 @@ class Dominos:
     def imprime(self):  # Nao deu tempo de eu formatar a impressao
         resultado = ''
         pular = True
-        volta
         for i, tupla in enumerate(self.mesa):
             if i == (0 or 2 or 4 or 6):
                 pular = True
